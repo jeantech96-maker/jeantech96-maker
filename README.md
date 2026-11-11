@@ -1,4 +1,4 @@
-# 👨‍💻 Jean Tech
+# Jean Tech
 
 ### Desenvolvedor Android & Web | Kotlin • JavaScript • TypeScript
 
