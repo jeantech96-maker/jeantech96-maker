@@ -1,4 +1,4 @@
-# ⚡ JEAN TECH
+#  JEAN TECH
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Jean%20Tech&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Android%20%7C%20Web%20Development%20%7C%20Technology&descAlignY=60&descSize=16" width="100%"/>
